@@ -3,7 +3,8 @@
 A fast, responsive weather application that shows real-time weather and a 5-day forecast using OpenWeather API.
 
 ## 🚀 Live Demo
-[Click here](YOUR_DEPLOYED_LINK)
+[Explore Sky Cast](https://sky-cast-co.netlify.app)
+
 
 ## ✨ Features
 - 🌍 Search weather by city
